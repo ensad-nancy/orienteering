@@ -1,0 +1,22 @@
+body {
+  font-family: 'Infini', sans-serif;
+  color: #F76D22;
+
+  min-height: 1200px;
+}
+
+.jumbotron {
+  background-color: #F76D22;
+  color: white;
+}
+
+.jumbotron a {
+  color: white;
+  text-decoration: underline;
+}
+
+
+.footer {
+   position: fixed;
+   bottom: 0;
+}
