@@ -5,5 +5,7 @@ De la tête et des jambes
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/b/bb/Control_description.svg)
 
 @Atarys
+@CleBru
+>>>>>>> origin/gh-pages
 @dcfvg
 @val-v
