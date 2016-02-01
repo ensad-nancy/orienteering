@@ -6,6 +6,5 @@ De la tête et des jambes
 
 @Atarys
 @CleBru
->>>>>>> origin/gh-pages
 @dcfvg
 @val-v
