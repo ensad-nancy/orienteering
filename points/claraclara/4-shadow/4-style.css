@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "ptah-regular";
+    src: url("ptah/ptah-regular.otf");
+}
+
+p {
+  font-size: 20px;
+  font-family: "ptah-regular", monospace, serif;
+  text-shadow: 10px 10px 10px #483D8B;
+}
+
+.parent {
+  text-align: center;
+}
+
+.child {
+  display: inline-block;
+}
