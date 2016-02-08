@@ -2,7 +2,8 @@
 logs
 *.log
 npm-debug.log*
-
+# Apple Double
+._*
 # Runtime data
 pids
 *.pid
