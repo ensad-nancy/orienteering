@@ -1,0 +1,7 @@
+p {
+    color: black;
+    background-color: grey;
+    font-family: sans-serif;
+    display:inline;
+  }
+p:hover { color: yellow; }
