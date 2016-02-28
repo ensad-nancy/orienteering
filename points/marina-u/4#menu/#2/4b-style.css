@@ -1,0 +1,48 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'font/terminal_grotesque_openRg';
+    src: url('font/terminal-grotesque_open-webfont.eot');
+    src: url('font/terminal-grotesque_open-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/terminal-grotesque_open-webfont.woff2') format('woff2'),
+         url('font/terminal-grotesque_open-webfont.woff') format('woff'),
+         url('font/terminal-grotesque_open-webfont.ttf') format('truetype'),
+         url('font/terminal-grotesque_open-webfont.svg#terminal_grotesque_openRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html{
+  background-image : linear-gradient(to right, #4DE8E8, pink);
+  background-size: cover;
+  margin:0;
+  padding:0;
+  font-family: 'font/terminal_grotesque_openRg', Arial, Helvetica, sans-serif;
+}
+
+nav ul {
+  padding: 0px;
+  margin: 0px;
+  list-style-type:none;
+  background-color: #4DE8E8;
+}
+nav li a:hover {
+  background-color: pink;
+}
+
+nav li {
+  display: inline-block;
+  width: 200px;
+  height: 60px;
+  margin: 0px;
+  padding: 0px;
+  /*border-right: solid 3px black;*/
+  text-align: center;
+  line-height: 60px;
+}
+
+nav li a {
+  display: block;
+  text-decoration: none;
+  color : white;
+  font-size: 30px;
+}
