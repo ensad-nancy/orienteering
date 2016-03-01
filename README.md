@@ -7,7 +7,7 @@ Par les outils collaboration (partage de code, gestion collective des tâches…
 
 Une préliste de **100 problèmes** précède ceux qui pourront ensuite être posés par chacun.
 
-**Comment travailler à une résolution ? **
+**Comment travailler à une résolution ?**
 
 1. créer un dossier à mon `pseudo` dans le dossier `point`
 2. pour chacune des propositions, ajouter un sous-dossier avec `numero-issue`-`titre-du-cas`
@@ -16,7 +16,7 @@ Une préliste de **100 problèmes** précède ceux qui pourront ensuite être po
 - *éviter les caractères spéciaux dans le nom des fichiers et de dossiers*
 - *Lier les médias (images, films, sons…) depuis des sources externes pour ne pas surcharger le repos*
 
-**Comment proposer une résolution ? **
+**Comment proposer une résolution ?**
 
 - mettre en commentaire le lien vers la résolution (ex. http://nouveau-departement.github.io/orienteering/points/claraclara/4-shadow/4-index.html)
 - ajouter `fix` au message du commit pour fermer automatiquement l'issue (https://help.github.com/articles/closing-issues-via-commit-messages)
