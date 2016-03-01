@@ -20,7 +20,8 @@ gulp.task('js', function() {
 
       './bower_components/handlebars/handlebars.min.js',
       './bower_components/bootstrap/dist/js/bootstrap.js',
-      './bower_components/js-yaml/dist/js-yaml.js'
+      './bower_components/js-yaml/dist/js-yaml.js',
+      './bower_components/bootstrap/dist/js/bootstrap.js'
 
       ],
       {base: 'bower_components/'}

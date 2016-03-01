@@ -5,7 +5,20 @@ $( document ).ready(function() {
 
   $('#list').html(templates.issue( {list:data} ));
 
-  console.log(data);
+  $("input[type='text']").on("input", function(){
+    console.log( $( this ).val() )
+
+    var searchStr = $( this ).val();
+    var filtered = _.filter(data, function (obj) {
+      return _.values(obj).some(function (el) {
+        var t = _.toString(el).toLowerCase();
+        return t.indexOf(searchStr.toLowerCase()) > -1;
+      });
+    });
+
+    $('#list').html(templates.issue( {list: filtered} ));
+
+  });
 
 });
 

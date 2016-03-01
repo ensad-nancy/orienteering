@@ -1,8 +1,14 @@
+@import '../../bower_components/bootstrap/less/bootstrap.less';
+
 body {
   font-family: 'Infini', sans-serif;
 
   a {
     color: #F76D22;
+
+    &:visited {
+      color: darken(#F76D22, 30%)
+    }
   }
 
   .jumbotron {
@@ -19,6 +25,14 @@ body {
   }
 
   .table-bordered {
-    td,th { border: 2px black solid !important;}
+    td,th { border: 1px black solid !important;}
+
+    border: 2px black solid !important;
   }
+
+  #search {
+    font-size: 3em;
+    height: 2em;
+  }
+
 }
