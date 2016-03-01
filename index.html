@@ -21,9 +21,8 @@
       </a></p>
     </div>
 
-    <div id="list">
-
-    </div>
+    <table class="table table-bordered" id="list">
+    </table>
 
     <div class="footer container">
       <img class="col-sm-offset-10 col-sm-1"
@@ -35,9 +34,31 @@
 
   <script id="issue" type="text/x-handlebars-template">
     {{debug}}
-    {{#each list}}
-      <li>{{titre}}</li>
-    {{/each}}
+    <thead>
+      <tr>
+
+        <th></th>
+        <th>titre</th>
+        <th>description</th>
+        <th>auteur</th>
+        <th>source</th>
+        <th>démonstration</th>
+        <th>catégorie</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each list}}
+        <tr>
+          <td><img width="10" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Orienteering_symbol.svg"></td>
+          <td>{{titre}}</td>
+          <td>{{description}}</td>
+          <td>{{author}}</td>
+          <td><a href="https://github.com/nouveau-departement/orienteering/tree/gh-pages/{{code}}">source</a></td>
+          <td><a href="http://nouveau-departement.github.io/orienteering/{{code}}">demo</a></td>
+          <td>{{category}}</td>
+        </tr>
+      {{/each}}
+    </tbody>
   </script>
 
   <script type="text/javascript" src="./assets/js/all.min.js"></script>

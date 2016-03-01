@@ -1,5 +1,7 @@
 body {
   font-family: 'Infini', sans-serif;
+}
+body a {
   color: #F76D22;
 }
 body .jumbotron {
@@ -13,4 +15,8 @@ body .jumbotron a {
 body .footer {
   position: fixed;
   bottom: 0;
+}
+body .table-bordered td,
+body .table-bordered th {
+  border: 2px black solid !important;
 }
