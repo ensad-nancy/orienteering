@@ -4,6 +4,7 @@ var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
 var gutil = require( 'gulp-util' );
 var browserSync = require('browser-sync').create();
+var concat = require('gulp-concat');
 
 gulp.task('less', function() {
     return gulp.src('./assets/less/*.less')
@@ -18,7 +19,9 @@ gulp.task('js', function() {
       './bower_components/lodash/lodash.js',
 
       './bower_components/handlebars/handlebars.min.js',
-      './bower_components/bootstrap/dist/js/bootstrap.js'
+      './bower_components/bootstrap/dist/js/bootstrap.js',
+      './bower_components/js-yaml/dist/js-yaml.js'
+
       ],
       {base: 'bower_components/'}
     )
@@ -28,11 +31,11 @@ gulp.task('js', function() {
 });
 
 gulp.task('serve', function() {
-    browserSync.init({ server: "./app" });
+    browserSync.init({ server: "./" });
 
     gulp.watch('./assets/less/*.less', ['less']);
     gulp.watch("*.html").on('change', browserSync.reload);
 });
 
-gulp.task('build',['less', 'js', 'templates']);
-gulp.task('default', ['build', 'watch']);
+gulp.task('build',['less', 'js']);
+gulp.task('default', ['build', 'serve']);

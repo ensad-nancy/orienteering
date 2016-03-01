@@ -2,19 +2,15 @@ body {
   font-family: 'Infini', sans-serif;
   color: #F76D22;
 }
-
-.jumbotron {
+body .jumbotron {
   background-color: #F76D22;
   color: white;
 }
-
-.jumbotron a {
+body .jumbotron a {
   color: white;
   text-decoration: underline;
 }
-
-
-.footer {
-   position: fixed;
-   bottom: 0;
+body .footer {
+  position: fixed;
+  bottom: 0;
 }
