@@ -1,0 +1,22 @@
+2:
+  titre: background-color / font-size
+  description: Changer l'arrière plan et la typographie
+  code: points/Atarys/2-Write-big/
+  author: Atarys
+  category: html/css
+  tags:
+    - html
+    - css
+    - mise en page
+    - typographie
+3:
+  titre: Fullscreen background image
+  description: une image d'arriere plan en plein écran
+  code: points/claraclara/2-background
+  author: claraclara
+  category: html/css
+  tags:
+    - html
+    - css
+    - mise en page
+    - medias
