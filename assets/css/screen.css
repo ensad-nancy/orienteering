@@ -6793,6 +6793,8 @@ body .table-bordered th {
   border: 1px black solid !important;
 }
 body #search {
+  margin-top: 1em;
   font-size: 3em;
   height: 2em;
+  color: #F76D22;
 }

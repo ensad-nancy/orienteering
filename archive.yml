@@ -20,3 +20,14 @@
     - css
     - mise en page
     - medias
+4:
+  titre: Utiliser une typographie non présente sur le systeme
+  description: Utiliser une typographie non présente sur le système
+  code: points/claraclara/4-shadow/
+  author: claraclara
+  category: html/css
+  tags:
+    - html
+    - css
+    - typographie
+    - medias
