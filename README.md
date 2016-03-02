@@ -18,7 +18,8 @@ Une préliste de **100 problèmes** précède ceux qui pourront ensuite être po
 
 **Comment proposer une résolution ?**
 
-- mettre en commentaire le lien vers la résolution (ex. http://nouveau-departement.github.io/orienteering/points/claraclara/4-shadow/4-index.html)
+- s'assurer que mon exemple s'appelle `index.html`
+- mettre en commentaire le lien vers la résolution (ex. http://nouveau-departement.github.io/orienteering/points/claraclara/4-shadow)
 - ajouter `fix` au message du commit pour fermer automatiquement l'issue (https://help.github.com/articles/closing-issues-via-commit-messages)
 - compléter le fichier `archive.yml` https://github.com/nouveau-departement/orienteering/blob/gh-pages/archive.yml 
 
