@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title></title>
-  <link rel='stylesheet' href='http://www.cnap.graphismeenfrance.fr/infini/css/infini-fontes.css'>
+  <meta charset='utf-8'>
+  <title>orienteering</title>
   <link rel="stylesheet" type="text/css" href="./assets/css/screen.css">
 </head>
 <body>
@@ -40,7 +40,7 @@
         <th>description</th>
         <th>auteur</th>
         <th>source</th>
-        <th>démonstration</th>
+        <th>démo</th>
         <th>catégorie</th>
         <th>tags</th>
       </tr>
@@ -51,12 +51,12 @@
           <td>#{{@key}}<img width="10" src="./assets/images/Orienteering_symbol.svg"></td>
           <td>{{titre}}</td>
           <td>{{description}}</td>
-          <td>{{author}}</td>
-          <td><a target="_blank" href="https://github.com/nouveau-departement/orienteering/tree/gh-pages/{{code}}">source</a></td>
-          <td><a target="_blank" href="http://nouveau-departement.github.io/orienteering/{{code}}">demo</a></td>
+          <td><a href="https://github.com/{{author}}">{{author}}</a></td>
+          <td><a target="_blank" href="https://github.com/nouveau-departement/orienteering/tree/gh-pages/{{code}}"><img width="10" src="./assets/images/Orienteering_symbol.svg"></a></td>
+          <td><a target="_blank" href="http://nouveau-departement.github.io/orienteering/{{code}}"><img width="10" src="./assets/images/Orienteering_symbol.svg"></a></td>
           <td>{{category}}</td>
           <td>{{#each tags}}
-            {{this}}
+            {{this}},
           {{/each}}</td>
         </tr>
       {{/each}}

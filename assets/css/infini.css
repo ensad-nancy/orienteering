@@ -1,0 +1,35 @@
+@font-face {
+  font-family: Infini;
+  src: url('assets/fonts/infini/romain/infini-romain.eot');
+  src: url('assets/fonts/infini/romain/infini-romain.eot?#iefix') format('embedded-opentype'), url('assets/fonts/infini/romain/infini-romain.woff') format('woff'), url('assets/fonts/infini/romain/infini-romain.ttf') format('truetype'), url('assets/fonts/infini/romain/infini-romain.svg#infini') format('svg');
+  font-style: normal;
+}
+@font-face {
+  font-family: Infini;
+  src: url('assets/fonts/infini/italique/infini-italique.eot');
+  src: url('assets/fonts/infini/italique/infini-italique.eot?#iefix') format('embedded-opentype'), url('assets/fonts/infini/italique/infini-italique.woff') format('woff'), url('assets/fonts/infini/italique/infini-italique.ttf') format('truetype'), url('assets/fonts/infini/italique/infini-italique.svg#infini') format('svg');
+  font-style: italic;
+}
+@font-face {
+  font-family: Infini;
+  src: url('assets/fonts/infini/gras/infini-gras.eot');
+  src: url('assets/fonts/infini/gras/infini-gras.eot?#iefix') format('embedded-opentype'), url('assets/fonts/infini/gras/infini-gras.woff') format('woff'), url('assets/fonts/infini/gras/infini-gras.ttf') format('truetype'), url('assets/fonts/infini/gras/infini-gras.svg#infini') format('svg');
+  font-weight: bold;
+}
+.ligatures {
+  -webkit-text-rendering: optimizeLegibility;
+  -moz-text-rendering: optimizeLegibility;
+  -ms-text-rendering: optimizeLegibility;
+  -o-text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -ms-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  -webkit-font-feature-settings: "liga" 1, "dlig" 1;
+  -moz-font-feature-settings: "liga=1, dlig=1";
+  -ms-font-feature-settings: "liga" 1, "dlig" 1;
+  -o-font-feature-settings: "liga" 1, "dlig" 1;
+  font-feature-settings: "liga" 1, "dlig" 1;
+}
