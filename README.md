@@ -20,13 +20,10 @@ Une préliste de **100 problèmes** précède ceux qui pourront ensuite être po
 
 - mettre en commentaire le lien vers la résolution (ex. http://nouveau-departement.github.io/orienteering/points/claraclara/4-shadow/4-index.html)
 - ajouter `fix` au message du commit pour fermer automatiquement l'issue (https://help.github.com/articles/closing-issues-via-commit-messages)
+- compléter le fichier `archive.yml` https://github.com/nouveau-departement/orienteering/blob/gh-pages/archive.yml 
 
 ***
-
-![alt text](https://upload.wikimedia.org/wikipedia/commons/c/ce/Orienteering_symbol.svg)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/b/bb/Control_description.svg)
 ![alt text](https://docs.google.com/drawings/d/1DF8C-wxSdj_T-iOdwyUOSKXInG1DQ9qXXfaXj3AmP3U/pub?w=960&amp ; h=720)
-
 ***
 
 **contributeur**
