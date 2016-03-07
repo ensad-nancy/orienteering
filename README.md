@@ -27,9 +27,6 @@ Une préliste de **100 problèmes** précède ceux qui pourront ensuite être po
 ![alt text](https://docs.google.com/drawings/d/1DF8C-wxSdj_T-iOdwyUOSKXInG1DQ9qXXfaXj3AmP3U/pub?w=960&amp ; h=720)
 ***
 
-
-![alt text](https://c1.staticflickr.com/1/658/22822267853_de5ed8aa5d_z.jpg)
-
 **contributeur**
 @Atarys
 @CleBru
