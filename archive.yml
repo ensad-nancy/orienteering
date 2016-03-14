@@ -4,30 +4,23 @@
   code: points/Atarys/2-Write-big/
   author: Atarys
   category: html/css
-  tags:
-    - html
-    - css
-    - mise en page
-    - typographie
+  keywords:
+    - background
+
 3:
   titre: Fullscreen background image
   description: Une image d'arriere plan en plein écran
   code: points/claraclara/2-background
   author: claraclara
   category: html/css
-  tags:
-    - html
-    - css
-    - mise en page
-    - medias
+  keywords:
+    - background-size
 4:
   titre: Utiliser une typographie non présente sur le systeme
   description: Utiliser une typographie non présente sur le système
   code: points/claraclara/4-shadow/
   author: claraclara
   category: html/css
-  tags:
-    - html
-    - css
-    - typographie
-    - medias
+  keywords:
+    - fontface
+    - text-shadow

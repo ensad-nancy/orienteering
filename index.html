@@ -48,14 +48,14 @@
     <tbody>
       {{#each list}}
         <tr>
-          <td>#{{@key}}<img width="10" src="./assets/images/Orienteering_symbol.svg"></td>
+          <td>#{{@key}}&nbsp;</td>
           <td>{{titre}}</td>
           <td>{{description}}</td>
           <td><a href="https://github.com/{{author}}">{{author}}</a></td>
           <td><a target="_blank" href="https://github.com/nouveau-departement/orienteering/tree/gh-pages/{{code}}"><img width="10" src="./assets/images/Orienteering_symbol.svg"></a></td>
           <td><a target="_blank" href="http://nouveau-departement.github.io/orienteering/{{code}}"><img width="10" src="./assets/images/Orienteering_symbol.svg"></a></td>
           <td>{{category}}</td>
-          <td>{{#each tags}}
+          <td>{{#each keywords}}
             {{this}},
           {{/each}}</td>
         </tr>
