@@ -21,7 +21,7 @@ function showInfo(data){
 
     if(d.www != "") $( "#listPersonnes" ).append(
       '<a class="link" title="'
-      + d.nom +' '+ d.prenom + DNSEP + '" target="_blank" href="'+d.www
+      + d.prenom +' '+ d.nom + DNSEP + '" target="_blank" href="'+d.www
       +'"><img width="20%" src="http://free.pagepeeker.com/v2/thumbs.php?size=x&url='+d.www
       +'"></a>' );
   })
