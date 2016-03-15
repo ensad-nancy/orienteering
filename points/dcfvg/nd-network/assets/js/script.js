@@ -17,7 +17,7 @@ function showInfo(data){
 
   data.personnes.elements.forEach(function(d){
 
-    var DNSEP = d.DNSEP === "" ? "" : '('+d.DNSEP+')';
+    var DNSEP = (d.DNSEP === "" || d.DNSEP === "!") ? "" : '('+d.DNSEP+')';
 
     if(d.www != "") $( "#listPersonnes" ).append(
       '<a class="link" title="'
