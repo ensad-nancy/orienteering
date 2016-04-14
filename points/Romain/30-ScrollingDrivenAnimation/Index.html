@@ -1,0 +1,32 @@
+<html>
+	<head>
+		<link href="style.css" type="text/css" rel="stylesheet">
+		<script type="text/javascript">
+		var setSkrollr = function($el, data) {
+   		for (var i = 0, l = data.length; i < l; i++) {
+        var d = data[i],
+            px = d[0];
+            css = d[1];
+        $el.attr('data-' + px, css);
+    }
+}
+
+jQuery(function($) {
+    setSkrollr($('#box1'), [[0, 'width:100%'], [1500, 'width:0%']]);
+    setSkrollr($('#box2'), [[0, 'transform:translateX(-100%)'], [750, 'transform:translateX(100%)'], [1500, 'transform:translateX(-100%)']]);
+    
+    skrollr.init({
+        smoothScrolling: false
+    });
+});
+		</script>
+	</head>
+
+	<body>
+		<div id="box1">box1</div>
+		<div id="box2">box2</div>
+
+		<script src="https://code.jquery.com/jquery-2.0.3.min.js"></script>
+		<script src="https://prinzhorn.github.io/skrollr/dist/skrollr.min.js"></script>
+	</body>
+</html>
