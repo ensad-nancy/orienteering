@@ -1,0 +1,12 @@
+h1
+{ 
+	font-weight: bold;
+	font-size: 1850%;
+    text-align: center; 
+    color: rgb(90,35,75);
+    text-transform: lowercase; 
+}
+
+body {
+    background-color: rgb(100,45,85);
+} 
