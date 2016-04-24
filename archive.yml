@@ -24,3 +24,27 @@
   keywords:
     - fontface
     - text-shadow
+5:
+  titre: SVG poster coded from text editor 
+  description: Créer un poster en SVG
+  code: points/CleBru/5-SVG/
+  author: CleBru
+  category: html/css
+  keywords:
+    - SVG
+20:
+  titre: Live video from webcam as background image
+  description: Diffuser le flux vidéo de la Webcam en tant qu'arrière plan d'une page HTML
+  code: points/CleBru/20-WebcamAsBackground/
+  author: CleBru
+  category: html/javascript
+  keywords:
+    - Sharing Webcam
+21:
+  titre: Get and display snapshot from the webcam
+  description: Diffuser le flux vidéo de la Webcam et pouvoir capturer une image du flux
+  code: points/CleBru/21-GetSnapshotFromWebcam/
+  author: CleBru
+  category: html/javascript
+  keywords:
+    - Webcam Capture
