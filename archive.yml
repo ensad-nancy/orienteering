@@ -32,6 +32,15 @@
   category: html/css
   keywords:
     - SVG
+17: 
+  titre: Draw as mouse moves on any website   
+  description: dessiner avec le curseur
+  code: points/Midrashim/17-Drawasmousemovesonanywebsite/ 
+  author: Midrshim
+  category: html/javascript
+  keywords:
+    -draw
+    -mouse
 20:
   titre: Live video from webcam as background image
   description: Diffuser le flux vidéo de la Webcam en tant qu'arrière plan d'une page HTML
@@ -48,3 +57,16 @@
   category: html/javascript
   keywords:
     - Webcam Capture
+22:
+  titre: drag & drop & resize images
+  description: déplacer et redimentionner une image
+  code: points/Midrashim/22-drag&drop&resizeimages/
+  author: Midrashim
+  category: javascript
+  keywords:
+    - drag 
+    - drop
+    - resize
+    
+    
+    
