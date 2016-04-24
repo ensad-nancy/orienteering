@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>issue 18: a text appears letter by letter as a human was typing</title>
+
+
+</head>
+<body>
+<DIV STYLE="color:black; font-family:Courier New;font-size:45px" ID=bloc></DIV>
+<SCRIPT LANGUAGE=JavaScript>
+
+var chaine = "Ecrire lettre par lettre comme si quelqu'un tapait \340 la machine :)"; 
+var nb_car = chaine.length; 
+var tableau = chaine.split("");
+texte = new Array;
+var txt = '';
+var nb_msg = nb_car - 1;
+for (i=0; i<nb_car; i++) {
+texte[i] = txt+tableau[i];
+var txt = texte[i];
+}
+
+actual_texte = 0;
+function changeMessage()
+{
+document.getElementById("bloc").innerHTML = texte[actual_texte];
+actual_texte++;
+if(actual_texte >= texte.length)
+actual_texte = nb_msg;
+}
+if(document.getElementById)
+
+setInterval("changeMessage()",150) 
+
+</SCRIPT>
+</body>
+</html>

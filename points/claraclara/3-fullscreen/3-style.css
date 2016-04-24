@@ -1,0 +1,6 @@
+html {
+  background: url(fuck-fullscreen.png) no-repeat center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}

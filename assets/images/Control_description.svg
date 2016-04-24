@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="324px" height="564px" viewBox="-5 -5 810 1410">
+	<rect style="fill: #fff; stroke-width:10px; stroke: #000000" x="0" y="0" width="800" height="1400"/>
+
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="100" y1="200" x2="100" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="200" y1="200" x2="200" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="400" y1="200" x2="400" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="500" y1="200" x2="500" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="700" y1="200" x2="700" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="0" y1="300" x2="800" y2="300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="0" y1="500" x2="800" y2="500"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="0" y1="600" x2="800" y2="600"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="0" y1="800" x2="800" y2="800"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="0" y1="900" x2="800" y2="900"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="0" y1="1100" x2="800" y2="1100"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:5px; stroke: #000000" x1="0" y1="1200" x2="800" y2="1200"/>
+
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="300" y1="100" x2="300" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="600" y1="100" x2="600" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="0" y1="1300" x2="800" y2="1300"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="0" y1="100" x2="800" y2="100"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="0" y1="200" x2="800" y2="200"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="0" y1="400" x2="800" y2="400"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="0" y1="1000" x2="800" y2="1000"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" x1="0" y1="700" x2="800" y2="700"/>
+	<text style="fill: #000000; text-anchor:middle; font-size:64px; font-family: sans-serif;" x="395" y="70">orienteering</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:57px; font-family: sans-serif;" x="150" y="177.5">M16</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:57px; font-family: sans-serif;" x="447.5" y="175">4,1 km</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:57px; font-family: sans-serif;" x="702" y="175">120 m</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50.2632" y="371.579">1</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50.2632" y="471.579">2</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50.9649" y="572.983">3</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50" y="671.053">4</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50" y="771.053">5</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50" y="871.053">6</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50" y="971.053">7</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50" y="1071.05">8</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50" y="1171.05">9</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="50" y="1271.05">10</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="671.053">57</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="771.053">32</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="871.053">58</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="971.053">47</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="1071.05">48</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="1171.05">49</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:51px; font-family: sans-serif;" x="150" y="1271.05">100</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="371.053">40</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="471.053">53</text>
+	<text style="fill: #000000; text-anchor:middle; font-size:52px; font-family: sans-serif;" x="150" y="571.053">46</text>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="220" y1="322.667" x2="273.333" y2="376"/>
+	<polyline style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="249.049,380 277.333,380 277.333,351.716 "/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="251.667" y1="518.333" x2="251.667" y2="583.686"/>
+	<polyline style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="231.667,569.343 251.667,589.343 271.667,569.343 "/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="284.597" y1="918.217" x2="226.627" y2="976.627"/>
+	<polyline style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="222.535,952.358 222.642,980.642 250.926,980.535 "/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke-dasharray:20px; stroke: #000000" x1="321.667" y1="421.667" x2="388.333" y2="488.333"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke-dasharray:20px; stroke: #000000" x1="385.402" y1="218.069" x2="318.736" y2="288.069"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke-dasharray:20px; stroke: #000000" x1="388.736" y1="1214.74" x2="322.069" y2="1284.74"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke-dasharray:20px; stroke: #000000" x1="488.736" y1="1214.74" x2="422.069" y2="1284.74"/>
+	<path transform="scale(100)" style="fill: none; fill-opacity:0; stroke-width:0.08px; stroke: #000000" d="M 3.11515 3.82727 C 3.53788,3.81586 3.2197,3.14314 3.52879,3.14314 C 3.83788,3.14314 3.53788,3.80677 3.91515,3.82727"/>
+	<polyline style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="320.152,519.768 349.242,586.581 378.75,519.837 "/>
+	<path transform="scale(100)" style="fill: none; fill-opacity:0; stroke-width:0.08px; stroke: #000000" d="M 3.1037 9.82916 C 3.52643,9.81775 3.20825,9.14503 3.51734,9.14503 C 3.82643,9.14503 3.52643,9.80866 3.9037,9.82916"/>
+	<polygon style="fill: #000000" points="347.931,827.337 377.931,877.337 320.431,877.337 "/>
+	<polygon style="fill: none; fill-opacity:0; stroke-width:10px; stroke: #000000" points="347.931,827.337 377.931,877.337 320.431,877.337 "/>
+	<polygon style="fill: #ffffff" points="75.4306,251.503 25.4306,281.503 25.4306,221.503 "/>
+	<polygon style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="75.4306,251.503 25.4306,281.503 25.4306,221.503 "/>
+	<g>
+		<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="382.097" y1="1016.84" x2="318.764" y2="1080.17"/>
+		<circle style="fill: #000" cx="330" cy="1068" r="10"/>
+		<circle style="fill: #000" cx="350" cy="1048" r="10"/>
+		<circle style="fill: #000" cx="370" cy="1028" r="10"/>
+	</g>
+	<rect style="fill: #000000" x="313" y="1130" width="77" height="35"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="584.597" y1="1210.88" x2="512.931" y2="1282.55"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="514.597" y1="1212.55" x2="585.431" y2="1283.38"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="485.254" y1="214.707" x2="413.587" y2="286.374"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="415.254" y1="216.374" x2="486.087" y2="287.207"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="483.587" y1="414.707" x2="411.921" y2="486.374"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="413.587" y1="416.374" x2="447.754" y2="450.541"/>
+	<path transform="scale(100)" style="fill: none; fill-opacity:0; stroke-width:0.08px; stroke: #000000" d="M 3.25,6.8 A 0.56,0.56 0 0 0 3.25,6.1"/>
+	<path transform="scale(100)" style="fill: none; fill-opacity:0; stroke-width:0.08px; stroke: #000000" d="M 3.73833,6.08419 A 0.597245,0.597245 0 0 0 3.72583,6.83419"/>
+	<path transform="scale(100)" style="fill: none; fill-opacity:0; stroke-width:0.08px; stroke: #000000" d="M 3.20,7.87 A 0.72,0.72 0 0 0 3.20,7.12"/>
+	<path transform="scale(100)" style="fill: none; fill-opacity:0; stroke-width:0.08px; stroke: #000000" d="M 3.42931 7.11503 C 3.43764,7.56503 3.82097,7.22337 3.82097,7.4817 C 3.82097,7.74003 3.43764,7.46503 3.42097,7.8817"/>
+	<path transform="scale(100)" style="fill: none; fill-opacity:0; stroke-width:0.08px; stroke: #000000" d="M 4.13764,9.48224 A 0.637564,0.637564 0 0 0 4.89597,9.48224"/>
+	<polyline style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="611.677,1015 687.51,1015 687.51,1090 "/>
+	<circle style="fill: #000;" cx="670" cy="1031" r="7"/>
+	<polyline style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="619.177,1111.67 658.343,1150.83 620.01,1189.17 "/>
+	<circle style="fill: #000;" cx="676" cy="1150" r="7"/>
+	<circle style="fill: #000;" cx="650" cy="318" r="7"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="628.343" y1="311.668" x2="628.343" y2="390.834"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" x1="670.843" y1="311.668" x2="670.843" y2="390.834"/>
+	<circle style="fill: none; stroke-width:7px; stroke:#000;" cx="97.5" cy="1350" r="26"/>
+	<circle style="fill: none; stroke-width:7px; stroke:#000;" cx="702" cy="1350" r="27"/>
+	<circle style="fill: none; stroke-width:7px; stroke:#000;" cx="702" cy="1350" r="16"/>
+	<line style="fill: none; fill-opacity:0; stroke-width:8px; stroke-dasharray:40px,15px; stroke: #000000" x1="124.177" y1="1350" x2="662.343" y2="1350"/>
+	<polyline style="fill: none; fill-opacity:0; stroke-width:8px; stroke: #000000" points="628.882,1380 669.01,1350 629.138,1320 "/>
+	<rect style="fill: #ffffff" x="280" y="1315" width="225" height="55"/>
+	<text style="fill: #000000; text-anchor:middle; font-size:68px; font-family: sans-serif;" x="396" y="1370">180 m</text>
+</svg>

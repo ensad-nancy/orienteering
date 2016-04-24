@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>orienteering</title>
+  <link rel="stylesheet" type="text/css" href="./assets/css/screen.css">
+</head>
+<body>
+
+  <div class="container">
+    <div class="jumbotron row">
+
+      <img src="./assets/images/Control_description.svg" class="img-responsive col-sm-3">
+      <img src="./assets/images/Tajfuto.jpg" class="col-sm-3 img-responsive">
+
+      <div class="col-sm-4">
+        <p>Find new points in <a href="https://github.com/nouveau-departement/orienteering/issues?q=is%3Aissue+is%3Aclosed">the issue list</a></p>
+
+        <p><a target="_blank" href="http://orienteering.org/wp-content/uploads/2010/12/IOF-Control-Descriptions-2004.pdf">
+            Orienteering Control Description Symbols
+        </a></p>
+      </div>
+
+      <div class="form-group col-sm-12">
+        <input type="text" id="search" class="form-control" placeholder="Rechercher">
+      </div>
+    </div>
+
+    <div class="row">
+      <table class="table table-bordered" id="list"></table>
+    </div>
+
+  </div>
+
+  <script id="issue" type="text/x-handlebars-template">
+    <thead>
+      <tr>
+        <th></th>
+        <th>titre</th>
+        <th>description</th>
+        <th>auteur</th>
+        <th>source</th>
+        <th>démo</th>
+        <th>catégorie</th>
+        <th>tags</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each list}}
+        <tr>
+          <td>#{{@key}}&nbsp;</td>
+          <td>{{titre}}</td>
+          <td>{{description}}</td>
+          <td><a href="https://github.com/{{author}}">{{author}}</a></td>
+          <td><a target="_blank" href="https://github.com/nouveau-departement/orienteering/tree/gh-pages/{{code}}"><img width="10" src="./assets/images/Orienteering_symbol.svg"></a></td>
+          <td><a target="_blank" href="http://nouveau-departement.github.io/orienteering/{{code}}"><img width="10" src="./assets/images/Orienteering_symbol.svg"></a></td>
+          <td>{{category}}</td>
+          <td>{{#each keywords}}
+            {{this}},
+          {{/each}}</td>
+        </tr>
+      {{/each}}
+    </tbody>
+  </script>
+
+  <script type="text/javascript" src="./assets/js/all.min.js"></script>
+  <script type="text/javascript" src="./assets/js/orienteering.js"></script>
+
+</body>
+</html>

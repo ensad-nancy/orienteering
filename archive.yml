@@ -1,0 +1,72 @@
+2:
+  titre: background-color / font-size
+  description: Changer l'arrière plan et la typographie
+  code: points/Atarys/2-Write-big/
+  author: Atarys
+  category: html/css
+  keywords:
+    - background
+
+3:
+  titre: Fullscreen background image
+  description: Une image d'arriere plan en plein écran
+  code: points/claraclara/2-background
+  author: claraclara
+  category: html/css
+  keywords:
+    - background-size
+4:
+  titre: Utiliser une typographie non présente sur le systeme
+  description: Utiliser une typographie non présente sur le système
+  code: points/claraclara/4-shadow/
+  author: claraclara
+  category: html/css
+  keywords:
+    - fontface
+    - text-shadow
+5:
+  titre: SVG poster coded from text editor 
+  description: Créer un poster en SVG
+  code: points/CleBru/5-SVG/
+  author: CleBru
+  category: html/css
+  keywords:
+    - SVG
+17: 
+  titre: Draw as mouse moves on any website   
+  description: dessiner avec le curseur
+  code: points/Midrashim/17-Drawasmousemovesonanywebsite/ 
+  author: Midrshim
+  category: html/javascript
+  keywords:
+    -draw
+    -mouse
+20:
+  titre: Live video from webcam as background image
+  description: Diffuser le flux vidéo de la Webcam en tant qu'arrière plan d'une page HTML
+  code: points/CleBru/20-WebcamAsBackground/
+  author: CleBru
+  category: html/javascript
+  keywords:
+    - Sharing Webcam
+21:
+  titre: Get and display snapshot from the webcam
+  description: Diffuser le flux vidéo de la Webcam et pouvoir capturer une image du flux
+  code: points/CleBru/21-GetSnapshotFromWebcam/
+  author: CleBru
+  category: html/javascript
+  keywords:
+    - Webcam Capture
+22:
+  titre: drag & drop & resize images
+  description: déplacer et redimentionner une image
+  code: points/Midrashim/22-drag&drop&resizeimages/
+  author: Midrashim
+  category: javascript
+  keywords:
+    - drag 
+    - drop
+    - resize
+    
+    
+    
